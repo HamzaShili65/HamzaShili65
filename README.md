@@ -33,6 +33,7 @@ I'm passionate about merging tech and finance. I am learning how to utilize mach
 <a href="https://www.linkedin.com/in/hamza-elmokhtar/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hamza ElMokhtar Shili | LinkedIn" width="21px"/></a>
 
 </br>
+</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
@@ -83,8 +84,7 @@ I'm passionate about merging tech and finance. I am learning how to utilize mach
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HamzaShili65)](https://github.com/HamzaShili65)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HamzaShili65)](https://github.com/HamzaShili65) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShili65&layout=compact)](https://github.com/HamzaShili65)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=HamzaShili65.HamzaShili65)](https://hamzashili65.github.io/)
