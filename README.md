@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HamzaShili65/HamzaShili65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/HamzaShili65/HamzaShili65/assets/98858609/68bb4e50-fb28-43cb-8e00-863e541c62c9" alt="my banner"></a>
+  <a href="https://hamzashili65.github.io/" target="_blank" rel="noreferrer"><img src="https://github.com/HamzaShili65/HamzaShili65/assets/98858609/68bb4e50-fb28-43cb-8e00-863e541c62c9" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -85,8 +83,8 @@ I'm passionate about merging tech and finance. I am learning how to utilize mach
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HamzaShili65)](https://github.com/HamzaShili65)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShili65&layout=compact)](https://github.com/HamzaShili65)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=HamzaShili65.HamzaShili65)](https://hamzashili65.github.io/)
