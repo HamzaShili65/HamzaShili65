@@ -80,7 +80,7 @@ I'm passionate about merging tech and finance. I am learning how to utilize mach
 
 <!--## 📈 GitHub Stats 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HamzaShili65)](https://github.com/HamzaShili65) -->
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HamzaShili65)](https://github.com/HamzaShili65)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShili65&layout=compact)](https://github.com/HamzaShili65)-->
 
