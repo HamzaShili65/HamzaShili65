@@ -28,7 +28,7 @@ I'm a Computer Science 💻 and Economics :chart: student at Rice University :ma
 
 I'm passionate about merging tech and finance. I am learning how to utilize machine learning and data analytics to predict financial market trends. Off work, I enjoy playing tennis with friends and travelling to new places.
 
-**👯 I’m looking to collaborate on** any exciting cs or econ related project!\n
+**👯 I’m looking to collaborate on** any exciting cs or econ related project!<br />
 **🤝 Connect with me:** &nbsp; <a href="https://www.linkedin.com/in/hamza-elmokhtar/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hamza ElMokhtar Shili | LinkedIn" width="21px"/></a>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
